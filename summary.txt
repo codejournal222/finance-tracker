@@ -1,0 +1,21 @@
+Finance Summary
+
+Here is your spending on this document:
+Food: $22.5
+Transport: $3.0
+Entertainment: $15.0
+Bills: $40.0
+Shopping: $0.0
+Health: $0.0
+Other: $0.0
+And in total you spent: $80.5
+Here is how much you have spent per day:
+      Date      Day  Amount ($)
+2025-08-01   Friday        15.5
+2025-08-02 Saturday        15.0
+2025-08-03   Sunday        10.0
+2025-08-04   Monday        40.0
+
+And the average amount you spent per day is: $20.13
+You spent the most on Monday (2025-08-04), where you have spent $40.0
+Refer to the line and pie chart for spending trends
