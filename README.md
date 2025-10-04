@@ -13,7 +13,7 @@ A simple finance tracker made in python using Pandas for reading and extracting 
 2. create a spending.csv file in the format of the example one in there already
 3. run main.py
 
-#Things I learned from doing this project
+# Things I learned from doing this project
 - Learned how to index and manipulate CSV files efficiently in Python using pandas
 - Discovered built-in functions for grouping and summarising data, reducing the need for manual loops
 - Practiced debugging and troubleshooting by analysing error messages and testing solutions iteratively
